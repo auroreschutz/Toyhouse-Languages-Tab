@@ -1,0 +1,42 @@
+   <!-- TOYHOUSE TAB LANGUAGES -->
+
+<div class="nav nav-pills mb-2 justify-content-around">
+    <a class="nav-link active px-5" type="button" href="#profile-1" data-toggle="tab" aria-controls="profile-1">[LANG 1]</a>
+    <a class="nav-link px-5" type="button" href="#profile-2" data-toggle="tab" aria-controls="profile-2">[LANG 2]</a>
+</div>
+
+<hr class="hr"></hr>
+
+ <div class="" data-ride="carousel" id="profiles">
+    <div class="tab-content">
+      
+         <!-- TAB LANG 1 -->
+        
+        <div id="profile-1" class="tab-pane fade show active">
+            
+             <!-- START CODE CC -->
+               
+                   <p>lang 1</p>
+                    
+                    
+                 <!-- END CODE CC -->
+           
+        </div>
+        
+         <!-- TAB LANG 2 -->
+        
+        <div id="profile-2" class="tab-pane fade">
+           
+                
+               <!-- START CODE CC -->
+               
+                    <p>lang 2</p>
+                    
+                    
+                 <!-- END CODE CC -->
+               
+            
+        </div>
+    
+    </div>
+</div>
